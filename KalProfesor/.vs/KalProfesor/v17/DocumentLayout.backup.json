@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abrah\\source\\repos\\KalProfesor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7A7000-3E0A-4ABB-819D-B6AEDAD5C259}|KalProfesor.csproj|c:\\users\\abrah\\source\\repos\\kalprofesor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7A7000-3E0A-4ABB-819D-B6AEDAD5C259}|KalProfesor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B04A17-C91D-40D8-B7DA-DDBDAC93D500}|..\\DB\\DB.csproj|c:\\users\\abrah\\source\\repos\\db\\ogametrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7A7000-3E0A-4ABB-819D-B6AEDAD5C259}|KalProfesor.csproj|c:\\users\\abrah\\source\\repos\\kalprofesor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B7A7000-3E0A-4ABB-819D-B6AEDAD5C259}|KalProfesor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B04A17-C91D-40D8-B7DA-DDBDAC93D500}|..\\DB\\DB.csproj|c:\\users\\abrah\\source\\repos\\db\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B04A17-C91D-40D8-B7DA-DDBDAC93D500}|..\\DB\\DB.csproj|c:\\users\\abrah\\source\\repos\\db\\edificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\source\\repos\\KalProfesor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\abrah\\source\\repos\\KalProfesor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:31:51.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abrah\\source\\repos\\KalProfesor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\abrah\\source\\repos\\KalProfesor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T12:27:17.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edificio.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\source\\repos\\DB\\Edificio.cs",
+              "RelativeDocumentMoniker": "..\\DB\\Edificio.cs",
+              "ToolTip": "C:\\Users\\abrah\\source\\repos\\DB\\Edificio.cs",
+              "RelativeToolTip": "..\\DB\\Edificio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:16:04.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OgameTrackerContext.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\source\\repos\\DB\\OgameTrackerContext.cs",
+              "RelativeDocumentMoniker": "..\\DB\\OgameTrackerContext.cs",
+              "ToolTip": "C:\\Users\\abrah\\source\\repos\\DB\\OgameTrackerContext.cs",
+              "RelativeToolTip": "..\\DB\\OgameTrackerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:06:12.845Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 13,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Planeta.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\source\\repos\\DB\\Planeta.cs",
+              "RelativeDocumentMoniker": "..\\DB\\Planeta.cs",
+              "ToolTip": "C:\\Users\\abrah\\source\\repos\\DB\\Planeta.cs",
+              "RelativeToolTip": "..\\DB\\Planeta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:13:59.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
